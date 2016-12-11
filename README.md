@@ -1,4 +1,4 @@
-# Analysing Titanic Dataset to find connection of various demographic information with survival
+# Analysing Titanic Dataset to find connection between various demographic parameters with chance of survival
 This project is data analysis of Titanic passengers and infer some conclusions. This project is a part of "Introduction to Data Analysis" course of Data Analyst Nanodegree program from Udacity
 
 ## Project Description
