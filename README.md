@@ -1,5 +1,10 @@
 # Analysing Titanic Dataset to find connection between various demographic parameters with chance of survival
-This project is data analysis of Titanic passengers and infer some conclusions. This project is a part of "Introduction to Data Analysis" course of Data Analyst Nanodegree program from Udacity
+
+  The sinking of the RMS Titanic is one of the most infamous shipwrecks in history.  On April 15, 1912, during her maiden voyage, the Titanic sank after colliding with an iceberg, killing 1502 out of 2224 passengers and crew. This sensational tragedy shocked the international community and led to better safety regulations for ships.
+
+  One of the reasons that the shipwreck led to such loss of life was that there were not enough lifeboats for the passengers and crew. Although there was some element of luck involved in surviving the sinking, some groups of people were more likely to survive than others, such as women, children, and the upper-class.
+
+This project focuses on data analysis of Titanic passengers' information and infer some conclusions. This project is a part of "Introduction to Data Analysis" course of Data Analyst Nanodegree program from Udacity.
 
 ## Project Description
 In this project, we try to analyse various factors that affected survival chance from Titanic Disaster. All the observations are are available in Jupyter notebook (titanic-data-analysis.ipynb). Also the conclusions made from the observations are mentioned below.
