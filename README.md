@@ -17,6 +17,8 @@ Variable Description is available on this link : [Dataset Description](https://w
 
 ## Conclusion
 
+  The dataset obtained had missing values in the age column. This hinders the analysis to some extent. Our analysis related to age would hae been more accurate if those missing values are present. To find the missing values, we need to perform more investigation or add random values.
+
 The conclusions below are made from the observations available in the Jupyter notebook.
 
   1. Only 38% of people could make it back from Titanic.
